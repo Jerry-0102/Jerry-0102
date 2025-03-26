@@ -24,6 +24,6 @@
 
 <p align="center">
   <a href="https://count.getloli.com" target="_blank">
-    <img alt="Moe Counter!" src="https://count.getloli.com/@Jerry-0102.github?name=Jerry-0102.github&theme=booru-lewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
+    <img alt=""src="https://count.getloli.com/@Jerry0102.githubname=Jerry0102.github&theme=boorulewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
   </a>
 </p>
