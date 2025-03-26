@@ -20,10 +20,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Vedant-0102&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<p align="center">
-  <a href="https://count.getloli.com" target="_blank">
-    <img alt=""src="https://count.getloli.com/@Jerry0102.githubname=Jerry0102.github&theme=boorulewd&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto">
-  </a>
-</p>
