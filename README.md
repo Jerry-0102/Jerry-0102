@@ -21,3 +21,4 @@
 [![](https://visitcount.itsvg.in/api?id=Vedant-0102&icon=2&color=0)](https://visitcount.itsvg.in)
 
 
+![:name](https://count.getloli.com/@:Jerry-0102)
